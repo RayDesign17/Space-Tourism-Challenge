@@ -1,0 +1,60 @@
+
+
+/* this is the style guide*/
+
+/* Typography*/
+
+h1{
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+    font-weight: 400;
+    line-height: 171.9px;
+}
+
+
+h2 {
+    font-family: 'Bellefair', serif;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 114.6px;
+}
+
+h3 {
+    font-family: 'Bellefair', serif;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 64.18px;
+}
+
+h4 {
+    font-family: 'Bellefair', serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 36.67px;
+}
+
+h5 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 33.6px;
+}
+
+
+ .subheading{
+    font-family: 'Bellefair', serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32.09px;
+    color: red;
+
+}
+
+.
+
+/* Background Color */
+
+p{
+    color: red;
+}
+
